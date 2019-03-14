@@ -21,3 +21,11 @@ body {
 h1 {
   color: green;
 }
+
+figure {
+  color: red;
+}
+
+cite {
+  font-size: .725em;
+}
